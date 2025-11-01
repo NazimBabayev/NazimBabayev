@@ -1,4 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Nazim Babayev  
+🎓 Bachelor's in Management Information Systems | Bandırma 17 Eylül University  
+🔐 Cybersecurity Enthusiast   
+
+## 🛠 Skills  
+- *Languages:* Python, C, C++  
+- *Operating Systems:* Kali Linux, Windows Server
+
+## 🎓 Certifications 
+- CompTIA *Tech+*  
+- CompTIA *Network+*  
+- CompTIA *Security+*  
+
+## 🌐 Connect  
+[LinkedIn](https://linkedin.com/NazimBabayev) • [Email](mailto:nazimbabayev@gmail.com)
 
 <!--
 **NazimBabayev/NazimBabayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
