@@ -12,7 +12,7 @@
 - CompTIA *Security+*  
 
 ## 🌐 Connect  
-[LinkedIn](https://www.linkedin.com/in/nazim-babayev) • [Email](mailto:nazimbabayev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nazim-babayev-225939367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) • [Email](mailto:nazimbabayev@gmail.com)
 
 <!--
 **NazimBabayev/NazimBabayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
