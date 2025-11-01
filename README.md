@@ -1,20 +1,46 @@
-# 👋 Hi, I'm Nazim Babayev  
-🎓 Bachelor's in Management Information Systems | Bandırma 17 Eylül University  
-🔐 SOC Analyst | Tech Support Specialist  
+# 👋 Hi, I'm Nazim BABAYEV
 
-## 🛠 Skills  
-- *Languages:* Python, C, C++  
-- *Operating Systems:* Kali Linux, Windows Server
+![Profile Views](https://komarev.com/ghpvc/?username=NazimBabayev)
 
-## 🎓 Certifications 
+🎓 **Bachelor's in Management Information Systems (MIS)**  
+🏫 **Bandırma 17 Eylül University**  
+💼 **SOC Analyst | Tech Support Specialist | Cybersecurity Enthusiast**
 
+---
 
-## 🧩 Projects
+### 🧠 Expertise  
+`MIS` `Cybersecurity` `AI` `Networking` `SOC Analysis` `Python`
 
+---
 
-## 🌐 Connect  
-[LinkedIn](https://www.linkedin.com/in/nazim-babayev-225939367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
-[Email](mailto:nazimbabayv@gmail.com)
+### ⚙️ Skills  
+- **Programming:** Python, C, C++  
+- **Networking:** Cisco Packet Tracer, Wireshark, Nmap  
+- **Security Tools:** Burp Suite, Metasploit, John the Ripper  
+- **Operating Systems:** Kali Linux, Windows Server  
+
+---
+
+### 🎯 Certifications  
+*(Add your certificates here once available — e.g. CompTIA Security+, CEH, or Cisco CCNA)*
+
+---
+
+### 🧩 Projects  
+*(Add project links or short descriptions here — e.g. SOC Lab, Network Security Simulation, or AI Threat Detection)*
+
+---
+
+### 🌐 Connect with Me  
+📧 [nazimbabayv@gmail.com](mailto:nazimbabayv@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/NazimBabayev)
+
+---
+
+### 🎯 Focus  
+Building a professional career in **Cybersecurity** and **AI-driven Security Systems**.
+
 
 <!--
 **NazimBabayev/NazimBabayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
