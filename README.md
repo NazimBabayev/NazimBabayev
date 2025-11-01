@@ -11,7 +11,7 @@
 
 ---
 
-## 🎓 Certifications  
+## 📜 Certifications  
 *(To be added)*  
 
 ---
