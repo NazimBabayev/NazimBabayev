@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Nazim Babayev  
 
 🎓 **Bachelor's in Management Information Systems** | Bandırma 17 Eylül University  
-🔐 **SOC Analyst | Tech Support Specialist**  
+🔐 **SOC Analyst**  
 
 ---
 
 ## 🛠 Skills  
-- **Languages:** Python, C, C++  
+- **Languages:** Python
 - **Operating Systems:** Kali Linux, Windows Server  
 
 ---
