@@ -19,16 +19,7 @@ Welcome to my GitHub! I am a cybersecurity professional specializing in defensiv
 
 * *CompTIA Security+ (SY0-701)*
 * *Microsoft Certified: Security Operations Analyst Associate (SC-200)*
-
----
-
-### 🚀 Featured Projects
-
-* *Enterprise SOC Lab*
-  Architected a comprehensive lab environment using VirtualBox. Configured Sysmon, Splunk, and Microsoft Sentinel to simulate, detect, and analyze advanced attack scenarios.
-  
-* *Detection Engineering as Code*
-  Researched attack vectors (e.g., RDP Tunneling) and engineered corresponding Sigma Rules, Splunk SPL, and Sentinel KQL queries to enhance overall detection mechanisms.
+hance overall detection mechanisms.
 
 ---
 
